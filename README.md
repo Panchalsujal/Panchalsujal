@@ -1,18 +1,88 @@
-# 💫 About Me:
-Dedicated BCA student with hands-on skills in web technologies and programming. Experienced in HTML, CSS, JavaScript, C, MySQL, and office productivity tools. Known for being responsible, adaptable, and eager to contribute to a professional IT environment.
+Sujal Panchal
 
+Full-Stack Developer
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Panchalsujal) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/panchalsujal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sujal___panchal_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujalpanchal249@gmail.com) 
+I build end-to-end web applications across frontend, backend, databases, real-time systems, and deployment.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Panchalsujal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Panchalsujal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Panchalsujal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently working as a Full-Stack Developer Intern at Internmo, where I built NavGujarat Academy — a full-stack EdTech platform — as my internship project.
+
+Featured Project
+
+NavGujarat Academy
+
+A full-stack learning platform designed for students, instructors, and administrators, covering the complete learning lifecycle from course discovery and enrollment to live classes, assessments, progress tracking, and certification.
+
+Key engineering work:
+
+- Built the frontend with React, Vite, Redux Toolkit, and Tailwind CSS
+- Developed REST APIs and backend services using Node.js and Express.js
+- Designed application data models and workflows with MongoDB
+- Implemented authentication and role-based access for students, instructors, and administrators
+- Built course management, enrollment, progress tracking, assessments, assignments, orders, reviews, and payment workflows
+- Integrated real-time live classes using Stream/WebRTC
+- Built an AI learning assistant using RAG, lecture transcripts, and course documents
+- Developed an interactive coding playground for hands-on learning
+- Implemented automated course-completion certificates with QR-based verification
+- Worked on caching, validation, rate limiting, API security, and backend performance
+- Created technical documentation covering system architecture, database schemas, application flows, APIs, and implementation decisions
+- Took the application through development, debugging, testing, optimization, and production deployment
+
+Live Platform: https://www.navgujaratacademy.online/
+
+Source Code: https://github.com/Panchalsujal/VertexPortal
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Panchalsujal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Technical Skills
+
+Frontend
+React.js · JavaScript · Redux Toolkit · HTML · CSS · Tailwind CSS
+
+Backend
+Node.js · Express.js · REST APIs · JWT · Socket.IO
+
+Databases & Infrastructure
+MongoDB · Redis · RabbitMQ
+
+Cloud & DevOps
+AWS · Docker · Kubernetes · NGINX · Git · GitHub · GitHub Actions
+
+Other Areas
+WebRTC · RAG · API Security · Caching · Real-Time Applications · CI/CD
+
+---
+
+Engineering Focus
+
+I'm particularly interested in:
+
+- Backend and API design
+- Database modeling
+- Authentication and authorization
+- Real-time systems
+- Performance and caching
+- Application security
+- Cloud and deployment
+- AI integration in web applications
+- System design and maintainable architecture
+
+---
+
+Currently Learning
+
+I'm currently expanding my stack with Next.js, TypeScript, PostgreSQL, and Prisma, while continuing to strengthen my understanding of:
+
+- System design
+- Database design
+- Testing
+- Data structures and algorithms
+- Software architecture
+- Performance optimization
+
+---
+
+Connect
+
+Portfolio: https://sujalpanchal.online
+LinkedIn: https://www.linkedin.com/in/sujal-panchal-292a19237
+Email: sujalpanchal249@gmail.com
