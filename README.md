@@ -35,4 +35,56 @@ A full-stack learning platform designed for students, instructors, and administr
 
 ---
 
-## Technical
+## Technical Skills
+
+**Frontend**  
+React.js · JavaScript · Redux Toolkit · HTML · CSS · Tailwind CSS
+
+**Backend**  
+Node.js · Express.js · REST APIs · JWT · Socket.IO
+
+**Databases & Infrastructure**  
+MongoDB · Redis · RabbitMQ
+
+**Cloud & DevOps**  
+AWS · Docker · Kubernetes · NGINX · Git · GitHub · GitHub Actions
+
+**Other Areas**  
+WebRTC · RAG · API Security · Caching · Real-Time Applications · CI/CD
+
+---
+
+## Engineering Focus
+
+I'm particularly interested in:
+
+- Backend and API design
+- Database modeling
+- Authentication and authorization
+- Real-time systems
+- Performance and caching
+- Application security
+- Cloud and deployment
+- AI integration in web applications
+- System design and maintainable architecture
+
+---
+
+## Currently Learning
+
+I'm currently expanding my stack with **Next.js, TypeScript, PostgreSQL, and Prisma**, while continuing to strengthen my understanding of:
+
+- System design
+- Database design
+- Testing
+- Data structures and algorithms
+- Software architecture
+- Performance optimization
+
+---
+
+## Connect
+
+**Portfolio:** [sujalpanchal.online](https://sujalpanchal.online)  
+**LinkedIn:** [Sujal Panchal](https://www.linkedin.com/in/sujal-panchal-292a19237)  
+**Email:** [sujalpanchal249@gmail.com](mailto:sujalpanchal249@gmail.com)
