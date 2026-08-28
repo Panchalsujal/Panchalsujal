@@ -1,24 +1,81 @@
 # Sujal Panchal
 
-**Full-Stack Developer**
+Full-Stack Developer focused on building production-oriented web applications, APIs, and scalable backend systems.
 
-I build end-to-end web applications across frontend, backend, databases, real-time systems, and deployment.
+Currently pursuing a Bachelor of Computer Applications (BCA) and working with modern JavaScript/TypeScript ecosystems, cloud infrastructure, and AI-powered applications.
 
-Currently working as a **Full-Stack Developer Intern at Internmo**, where I built **NavGujarat Academy** — a full-stack EdTech platform — as my internship project.
+## Featured Projects
+
+### NavGujarat Academy
+A full-stack Learning Management System built around real-world student, instructor, and administrative workflows.
+
+- AI tutor with RAG-based contextual search
+- Real-time WebRTC live classrooms
+- Course, assessment and assignment workflows
+- Role-based Student, Instructor & Admin access
+- Payments, coupons and order management
+- Verifiable PDF certificates with QR verification
+- Interactive coding playground
+
+**Stack:** React, Node.js, Express.js, MongoDB, Redux Toolkit, Tailwind CSS, Mistral AI, Stream, Razorpay
+
+[Repository](https://github.com/Panchalsujal/VertexPortal) · [Live](https://navgujaratacademy.online)
 
 ---
 
-## Featured Project
+### LeadDesk Mini
+A full-stack CRM for capturing, managing and tracking sales leads.
 
-### NavGujarat Academy
+- Lead capture and management workflows
+- Dashboard analytics and visualizations
+- Search, filtering, sorting and pagination
+- JWT authentication and role-based authorization
+- Employee/admin account management
+- Responsive administration interface
 
-A full-stack learning platform designed for students, instructors, and administrators, covering the complete learning lifecycle from course discovery and enrollment to live classes, assessments, progress tracking, and certification.
+**Stack:** React, Redux Toolkit, Tailwind CSS, Node.js, Express.js, MongoDB, JWT
 
-**Key engineering work:**
+[Repository](https://github.com/Panchalsujal/LeadDesk-Mini)
 
-- Built the frontend with **React, Vite, Redux Toolkit, and Tailwind CSS**
-- Developed REST APIs and backend services using **Node.js and Express.js**
-- Designed application data models and workflows with **MongoDB**
+---
+
+### Capstone
+
+A software engineering capstone project focused on applying full-stack development concepts in a practical application.
+
+[Repository](https://github.com/Panchalsujal/capstone)
+
+---
+
+### Brohsop
+
+Full-stack e-commerce project built to explore end-to-end application development.
+
+[Repository](https://github.com/Panchalsujal/Brohsop)
+
+## Technical Skills
+
+**Languages:** JavaScript, TypeScript, C, C++  
+**Frontend:** React, Next.js, HTML, CSS, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs  
+**Databases:** MongoDB, MySQL, Redis  
+**DevOps & Cloud:** Docker, AWS, GitHub Actions  
+**Tools:** Git, GitHub, Postman, Playwright  
+**Other:** Authentication, RBAC, API Design, RAG, LLM Integration
+
+## Currently Learning
+
+- Next.js & TypeScript
+- PostgreSQL
+- Software Testing
+- CI/CD & DevOps
+- Scalable backend architecture
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/panchalsujal)
+- [GitHub](https://github.com/Panchalsujal)
+- Email: sujalpanchal249@gmail.com- Designed application data models and workflows with **MongoDB**
 - Implemented authentication and role-based access for students, instructors, and administrators
 - Built course management, enrollment, progress tracking, assessments, assignments, orders, reviews, and payment workflows
 - Integrated real-time live classes using **Stream/WebRTC**
